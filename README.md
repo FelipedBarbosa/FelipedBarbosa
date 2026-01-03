@@ -28,18 +28,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <!-- Card de estatísticas -->
-  <a href="https://github.com/FelipedBarbosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipedBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-BR&title_color=007ACC&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub do Felipe Barbosa"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipedBarbosa&layout=compact&langs_count=7&theme=dark&locale=pt-BR&title_color=007ACC&text_color=ffffff&bg_color=0d1117" alt="Linguagens mais usadas pelo Felipe Barbosa no GitHub"/>
-  </a>
-</div>
-
----
-
 ### 💬 Vamos conversar?
 
 <p>Seja para discutir um projeto backend, trocar ideias sobre arquitetura de software ou explorar oportunidades de trabalho:</p>
