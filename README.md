@@ -18,10 +18,6 @@
   <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" title="RESTful APIs"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-
-  <br/><br/>
-
-  <!-- Em estudo / contato -->
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate"/></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" title="Kafka"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
