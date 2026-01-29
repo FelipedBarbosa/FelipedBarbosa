@@ -1,9 +1,19 @@
 <div align="center">
-  <h1 style="border-bottom: 2px solid #007ACC; padding-bottom: 10px;">👋 Olá, eu sou o Felipe!</h1>
-  <h3 style="color: #4CAF50;">Programador Backend Java | Especialista em Arquiteturas Escaláveis </h3>
+  <h1 style="border-bottom: 2px solid #007ACC; padding-bottom: 10px;">
+    Olá, eu sou o Felipe 👋
+  </h1>
+
+  <h3>
+    Desenvolvedor Backend | Java • Spring Boot • APIs REST
+  </h3>
+
   <p>
-    Focado no desenvolvimento de <strong>APIs REST</strong> e na construção de soluções backend utilizando o ecossistema <strong>Java e Spring Boot</strong>.<br/>
-    Atualmente conciliando estudos, projetos práticos e experiência profissional.
+    Desenvolvedor backend com foco no ecossistema <strong>Java e Spring Boot</strong>, 
+    atuando na criação de <strong>APIs REST</strong> e no desenvolvimento de soluções bem estruturadas,
+    seguindo boas práticas e arquitetura em camadas.
+    <br/><br/>
+    Atualmente conciliando estudos, projetos práticos e experiência profissional, 
+    com foco em evoluir continuamente como desenvolvedor backend.
   </p>
 </div>
 
@@ -12,26 +22,26 @@
 ### 🧠 Minha Stack
 
 <p align="left">
-  <!-- Stack principal -->
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/></code>
-  <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" title="RESTful APIs"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate"/></code>
-  <code><img width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" title="Kafka"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
-  <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>&nbsp;
+  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/></code>&nbsp;
+  <code><img width="42px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" title="REST APIs"/></code>&nbsp;
+  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="JPA / Hibernate"/></code>&nbsp;
+  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/></code>&nbsp;
+  <code><img width="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flyway.svg" title="Flyway"/></code>&nbsp;
+  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>&nbsp;
+  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>&nbsp;
+  <code><img width="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" title="Kafka"/></code>&nbsp;
+  <code><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS"/></code>&nbsp;
+
 </p>
+
 
 ---
 
-### 💬 Vamos conversar?
+### Vamos conversar?
 
-<p>
-Seja para trocar ideias sobre <strong>desenvolvimento backend</strong>, discutir projetos em <strong>Java</strong> ou falar sobre aprendizado e evolução na área de tecnologia:
-</p>
+Estou sempre aberto a trocar ideias sobre **desenvolvimento backend**, 
+projetos em **Java** e aprendizado contínuo na área de tecnologia.
 
-📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/felipedbarbosa/) ou confira meus repositórios aqui no GitHub!
+Conecte-se comigo no [LinkedIn](https://linkedin.com/in/felipedbarbosa/) 
+ou explore meus repositórios aqui no GitHub.
